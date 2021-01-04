@@ -21,7 +21,7 @@
 </p>
 
 ### <h2 align=center>My current streak was maintained listening</h2> 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=zyberg2091"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zyberg2091"/>
 
 ---
 
