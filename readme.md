@@ -10,7 +10,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shubhamkumar2091/?hl=en)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contactshubhamkr2091@gmail.com)
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://drive.google.com/file/d/1-F-1ynE2F2WRTvIqNQuD1iwXSflyLrmC/view)
-[<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">]()  ![Visits Badge](https://badges.pufler.dev/visits/zyberg2091/zyberg2091?style=for-the-badge)
+[<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://zyberg2091.github.io/)  ![Visits Badge](https://badges.pufler.dev/visits/zyberg2091/zyberg2091?style=for-the-badge)
 
 ---
 
