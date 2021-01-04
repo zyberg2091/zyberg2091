@@ -20,7 +20,7 @@
 <img align=center src="https://github-profile-trophy.vercel.app/?username=arnoob16&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
 </p>
 
-### <h2 align=center>My current streak was maintained listening</h2> 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyberg2091"/>
 
 ---
