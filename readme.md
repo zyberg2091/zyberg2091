@@ -22,7 +22,7 @@
 
 ### Some of my GitHub Stats	---
 <p align=center>    	
-    <img src="https://github-readme-stats.vercel.app/api?username=zyberg2091&show_icons=true&theme=dark&line_height=40">	
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyberg2091&theme=dark">	
 </p>
 
