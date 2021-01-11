@@ -14,12 +14,6 @@
 
 ---
 
-## <h2 align=center> Trophy Cabinet </h2>
-
-<p align=center>
-<img align=center src="https://github-profile-trophy.vercel.app/?username=zyberg2091&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
-</p>
-
 ### Some of my GitHub Stats	---
 <p align=center>    	
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyberg2091&theme=dark">	
