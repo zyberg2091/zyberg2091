@@ -16,7 +16,6 @@
 
 ### Some of my GitHub Stats	---
 <p align=center>    	
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyberg2091&theme=dark">	
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyberg2091"/>
 </p>
 
