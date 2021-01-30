@@ -1,6 +1,6 @@
 # Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Shubham Kumar.
 
-## I am Shubham Kumar, an AI/ML developer and researcher . I like to work on cool projects with AI which have an impact in our day to day lives . I am currently pursuing my Bachelor's in Computer Science and I am in my 3rd year.
+## An AI/ML developer and researcher . I like to work on cool projects with AI which have an impact in our day to day lives . I am currently pursuing my Bachelor's in Computer Science and I am in my 3rd year.
 
 
 ---
