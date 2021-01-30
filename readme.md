@@ -16,6 +16,7 @@
 
 ### Some of my GitHub Stats	---
 <p align=center>    	
+    ![My github stats](https://github-readme-stats.vercel.app/api?username=zyberg2091&count_private=true&hide=stars,issues&show_icons=true) <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyberg2091"/>
 </p>
 
