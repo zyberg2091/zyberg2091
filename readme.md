@@ -13,6 +13,24 @@
 
 ---
 
+## 🌍 Open Source Contributions
+
+Here are some packages and libraries I've contributed to:
+
+- 🧠 [HuggingFace Transformers](https://github.com/huggingface/transformers)  
+  Contributed to multilingual NER tokenizer compatibility  
+  → [Issue #9286: Bug in token alignment](https://github.com/huggingface/transformers/issues/9286)
+
+- 🧑‍🎓 [Research Internships for Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)  
+  Added verified ML/AI internships for students in India
+
+- 🗣️ [Hugging Face Model Hub](https://huggingface.co/zyberg2091/distilbert-base-multilingual-toxicity-classifier)  
+  Published a multilingual toxicity classifier using DistilBERT  
+  → Supports English, Hindi, and Hinglish for content moderation
+
+- 🧮 [TensorFlow Models](https://github.com/tensorflow/models) *(community help)*  
+  Contributed to best-practice discussions for object detection API on custom datasets
+
 ### Some of my GitHub Stats	---
 <p align=center>
      <img src="https://github-readme-stats.vercel.app/api?username=zyberg2091&count_private=true&hide=stars,issues&show_icons=true"/>
