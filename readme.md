@@ -21,7 +21,7 @@ Here are some packages and libraries I've contributed to:
   [PR #1797 – Documentation typos correction](https://github.com/tensorflow/docs/pull/1797)  
   → Enhanced documentation accuracy by fixing several typos across TensorFlow guides
   
-- 🧠 [HuggingFace Transformers](https://github.com/huggingface/transformers)  
+- 🧠 **HuggingFace Transformers**
   Contributed to multilingual NER tokenizer compatibility  
   → [Issue #9286: Bug in token alignment](https://github.com/huggingface/transformers/issues/9286)
 
@@ -29,14 +29,14 @@ Here are some packages and libraries I've contributed to:
   [PR #380 – Fixed typos in docstrings](https://github.com/RasaHQ/rasa-sdk/pull/380)  
   → Cleaned up developer documentation by correcting several typos in action server codebase
 
-- 🧑‍🎓 [Research Internships for Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)  
-  Added verified ML/AI internships for students in India
+- 🧑‍🎓 **Research Internships for Undergraduates**  
+  [Added verified ML/AI internships for students in India](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
-- 🗣️ [Hugging Face Model Hub](https://huggingface.co/zyberg2091/distilbert-base-multilingual-toxicity-classifier)  
-  Published a multilingual toxicity classifier using DistilBERT  
-  → Supports English, Hindi, and Hinglish for content moderation
+- 🗣️ **Hugging Face Model Hub**  
+  Published a multilingual toxicity classifier using DistilBERT : [Custom Model](https://huggingface.co/zyberg2091/distilbert-base-multilingual-toxicity-classifier) <br>
+  → Supports English, Hindi, and Hinglish for content moderation 
 
-- 🧮 [TensorFlow Models](https://github.com/tensorflow/models) *(community help)*  
+- 🧮 [TensorFlow Models] *(community help)*  
   Contributed to best-practice discussions for object detection API on custom datasets
 
 ### Some of my GitHub Stats	---
