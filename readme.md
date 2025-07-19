@@ -21,6 +21,10 @@ Here are some packages and libraries I've contributed to:
   Contributed to multilingual NER tokenizer compatibility  
   → [Issue #9286: Bug in token alignment](https://github.com/huggingface/transformers/issues/9286)
 
+- 💬 **RasaHQ/rasa-sdk**  
+  [PR #380 – Fixed typos in docstrings](https://github.com/RasaHQ/rasa-sdk/pull/380)  
+  → Cleaned up developer documentation by correcting several typos in action server codebase
+
 - 🧑‍🎓 [Research Internships for Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)  
   Added verified ML/AI internships for students in India
 
