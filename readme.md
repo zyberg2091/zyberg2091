@@ -8,9 +8,6 @@
 ## Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shubham-kumar-7b0a5a16a/) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contactshubhamkr2091@gmail.com)
-[<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://drive.google.com/file/d/19EdbJdYJbt_DVixqt9Dkl98Rd8x9p7sd/view?usp=drivesdk)
-[<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://shubham2091.herokuapp.com/)  ![Visits Badge](https://badges.pufler.dev/visits/zyberg2091/zyberg2091?style=for-the-badge)
-
 ---
 
 ## 🌍 Open Source Contributions
