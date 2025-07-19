@@ -17,6 +17,10 @@
 
 Here are some packages and libraries I've contributed to:
 
+- 📝 **tensorflow/docs**  
+  [PR #1797 – Documentation typos correction](https://github.com/tensorflow/docs/pull/1797)  
+  → Enhanced documentation accuracy by fixing several typos across TensorFlow guides
+  
 - 🧠 [HuggingFace Transformers](https://github.com/huggingface/transformers)  
   Contributed to multilingual NER tokenizer compatibility  
   → [Issue #9286: Bug in token alignment](https://github.com/huggingface/transformers/issues/9286)
