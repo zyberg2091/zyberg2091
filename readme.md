@@ -31,10 +31,6 @@ I build and explore machine learning systems with a focus on multilingual NLP, L
 - 📚 **Documentation Contributions (TensorFlow, Rasa)**  
   - Improved developer experience through documentation fixes and clarity enhancements  
 
-- 🧑‍🎓 **Research Internships for Undergraduates**  
-  🔗 https://github.com/himahuja/Research-Internships-for-Undergraduates  
-  - Added verified ML/AI internship opportunities for students in India  
-
 ---
 
 ## 📊 GitHub Stats
