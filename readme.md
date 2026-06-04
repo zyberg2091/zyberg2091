@@ -6,12 +6,6 @@ I build and explore machine learning systems with a focus on multilingual NLP, L
 
 ---
 
-## 🔗 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shubham-kumar-7b0a5a16a/) 
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contactshubhamkr2091@gmail.com)
-
----
-
 ## 🌍 Open Source Contributions
 
 - 🧠 **Hugging Face Transformers**  
