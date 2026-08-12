@@ -32,15 +32,3 @@ I build and explore machine learning systems with a focus on multilingual NLP, L
   - Improved developer experience through documentation fixes and clarity enhancements  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=zyberg2091&count_private=true&hide=stars,issues&show_icons=true"/>
-</p>
-
-<p align="center">    	
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyberg2091"/>
-</p>
-
----
